@@ -1,6 +1,6 @@
 # Macos Rusty Clean Tool
 
-A tool to free up disk space by deleting `~/Library/Caches/`, unused node_modules and docker images.
+A tool to free up disk space by deleting `~/Library/Caches/`, `node_modules` and `target` directories and unused docker cache, volumes and images.
 
 ## Use
 
